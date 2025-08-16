@@ -4,4 +4,4 @@
 ![2025 Monthly](https://github-readme-stats.vercel.app/api?username=FridayBlessed&theme=dark&bg_color=000000&title_color=00FF7F&hide_title=true&custom_title=2025+Stats)
 
 
-![2025 Trends](https://activity-graph.herokuapp.com/graph?username=FridayBlessed&theme=react-dark&bg_color=000000&color=00FFFF)
+
