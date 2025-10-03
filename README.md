@@ -2,5 +2,5 @@
 # Hey! 👋 I'm Friday
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/asset/example-github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/svg/demo1.svg" alt="orbit animation"/>
 </p>
