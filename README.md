@@ -1,2 +1,2 @@
 
-Hey 👋 I'm Friday
+# Hey! 👋 I'm Friday
