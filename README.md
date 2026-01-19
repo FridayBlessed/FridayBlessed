@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Friday Blessed</h1>
+<h1 align="center">Hey! 👋 I'm Friday Blessed.</h1>
 
 
 <p align="center">
