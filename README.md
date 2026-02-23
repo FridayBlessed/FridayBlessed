@@ -2,6 +2,6 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vscode,js,html,css,git&perline=7" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=react,vscode,vue,js,html,css,git&perline=7" alt="skills"/>
 </p>
 
