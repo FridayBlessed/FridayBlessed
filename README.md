@@ -2,6 +2,6 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,vscode,vue,js,html,css,git&perline=7" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=typescript,vue,js,html,css,git&perline=7" alt="skills"/>
 </p>
 
